@@ -59,3 +59,14 @@ also known as port scanning, involves scanning multiple hosts for a specific ope
 
 ## NMAP command to scan multiple hosts
 Adding ip address as hosts into `/etc/hosts` file.
+
+![image](https://user-images.githubusercontent.com/33444140/226356191-a9e4f072-22e2-4a1d-af1c-0acd31915aa2.png)
+
+![image](https://user-images.githubusercontent.com/33444140/226356596-069e7d28-bb7f-4b06-be86-e60cb97d2914.png)
+
+## NMAP command to export the output in XML format
+Command - `nmap -sV <ipaddr> -oX filename.xml`
+
+`-oX` - Outputs scan in XML format.
+
+![image](https://user-images.githubusercontent.com/33444140/226360344-3d19f3a8-6723-4f43-8cdf-b207fd6271ec.png)
