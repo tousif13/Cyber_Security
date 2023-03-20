@@ -76,3 +76,12 @@ Command - `nmap -O <target-ip>`
 
 `-O` - to get OS information.
 
+### Too many fingerprints
+> "Too many fingerprints match this host to give specific OS details" means that the probes are contradictory or too broad. If there are no ports responding to network traffic, nmap cannot effectively fingerprint the OS.
+
+![image](https://user-images.githubusercontent.com/33444140/226379557-bd14971a-7d6e-4c6b-9a17-b4bc8d330997.png)
+
+### OS Detection
+![image](https://user-images.githubusercontent.com/33444140/226380146-38e4f3da-5c06-4535-bcbc-fa1a78f2150b.png)
+
+## Ping Sweep
