@@ -85,3 +85,11 @@ Command - `nmap -O <target-ip>`
 ![image](https://user-images.githubusercontent.com/33444140/226380146-38e4f3da-5c06-4535-bcbc-fa1a78f2150b.png)
 
 ## Ping Sweep
+Ping sweeping is a network reconnaissance technique used to determine which IP addresses are alive and responsive on a network. It is often used by network administrators to identify active hosts on a network and to map the network. It involves sending a series of ICMP echo request messages, to a range of IP addresses, usually in a sequential order, to identify which ones are available and can be reached.
+
+## NMAP command to perform ping sweeping
+Command - `nmap -sn <network address>/<CIDR>`
+
+`-sn` - Performs ping scan on the target.
+
+![image](https://user-images.githubusercontent.com/33444140/226383216-773a132f-335e-46e5-84c0-082b5bbdd44c.png)
