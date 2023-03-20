@@ -93,3 +93,14 @@ Command - `nmap -sn <network address>/<CIDR>`
 `-sn` - Performs ping scan on the target.
 
 ![image](https://user-images.githubusercontent.com/33444140/226383216-773a132f-335e-46e5-84c0-082b5bbdd44c.png)
+
+## Web application firewall
+
+- A web application firewall (WAF) is a firewall that monitors, filters and blocks data packets as they travel to and from a website or web application.
+- It specifically designed to protect web applications from various types of attacks, such as cross-site scripting (XSS), SQL injection, and other vulnerabilities.
+- A WAF can be either network-based, host-based or cloud-based and is often deployed through a reverse proxy and placed in front of one or more websites or applications.
+
+## Performing WAF fingerprint detection using NMAP
+Command - `nmap --script http-waf-detect <ipaddr>`
+
+![image](https://user-images.githubusercontent.com/33444140/226404457-b597d45f-f068-49e0-8d1a-972823a594ec.png)
