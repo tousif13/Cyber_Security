@@ -49,3 +49,13 @@ Command - `nmap -sn <ip>/<CIDR>`
 Example - `nmap -sn 192.168.59.133/24`
 
 ![image](https://user-images.githubusercontent.com/33444140/226269403-cd4c9491-fb62-4293-8a18-0609e36f827d.png)
+
+## Vertical & Horizontal scan
+#### Vertical Scanning 
+also known as service scanning, involves scanning a single host for all the open ports and services that are running on it. This approach allows for a detailed analysis of the individual host, including the versions of services running, operating system, and other relevant information.
+
+#### Horizontal Scanning
+also known as port scanning, involves scanning multiple hosts for a specific open port or set of ports. This approach allows for a quick overview of the network or hosts that may have a specific service or vulnerability present.
+
+## NMAP command to scan multiple hosts
+Adding ip address as hosts into `/etc/hosts` file.
