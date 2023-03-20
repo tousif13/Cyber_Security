@@ -125,3 +125,5 @@ Command - `nmap --script dns-brute.nse <webaddress>`
 ## Performing a vulnerability scan on the target host using NMAP NSE
 
 Command - `nmap -sV --script=vuln <target ip>`
+
+![image](https://user-images.githubusercontent.com/33444140/226417616-af471d53-73e3-431b-8a24-5a74001ca215.png)
