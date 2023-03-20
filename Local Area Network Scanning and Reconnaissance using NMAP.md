@@ -104,3 +104,12 @@ Command - `nmap -sn <network address>/<CIDR>`
 Command - `nmap --script http-waf-detect <ipaddr>`
 
 ![image](https://user-images.githubusercontent.com/33444140/226404457-b597d45f-f068-49e0-8d1a-972823a594ec.png)
+
+## EXIF Data
+- EXIF stands for Exchangeable Image File Format.
+- It is a metadata format that is embedded in image files captured by digital cameras and other devices that capture digital images.
+- Exif data can also include information about the camera's make, model, the lens used, and the exposure settings, such as shutter speed, aperture, and ISO.
+
+## Finding EXIF data of images on a website using NMAP NSE
+
+![image](https://user-images.githubusercontent.com/33444140/226409136-e734615a-4d49-485c-9671-3354ac70e65a.png)
