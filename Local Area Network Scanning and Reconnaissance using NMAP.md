@@ -40,4 +40,12 @@ Example - `nmap -sV 192.168.59.133/24`
  ### Filtered packets
  ![image](https://user-images.githubusercontent.com/33444140/226266735-ced66c1e-4e1c-42dd-bdb8-347bcf02efa7.png)
 
- 
+## NMAP command to scan a network and determine which devices are up and running.
+
+Command - `nmap -sn <ip>/<CIDR>`
+
+`-sn` - Scanning devices connected to the network.
+
+Example - `nmap -sn 192.168.59.133/24`
+
+![image](https://user-images.githubusercontent.com/33444140/226269403-cd4c9491-fb62-4293-8a18-0609e36f827d.png)
