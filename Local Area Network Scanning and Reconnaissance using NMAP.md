@@ -113,3 +113,15 @@ Command - `nmap --script http-waf-detect <ipaddr>`
 ## Finding EXIF data of images on a website using NMAP NSE
 
 ![image](https://user-images.githubusercontent.com/33444140/226409136-e734615a-4d49-485c-9671-3354ac70e65a.png)
+
+## Finding all subdomains of the website using NMAP NSE
+
+Command - `nmap --script dns-brute.nse <webaddress>`
+
+`dns-brute` - Enumerates subdomains and their corresponding server IP addresses.
+
+![image](https://user-images.githubusercontent.com/33444140/226412993-575f2371-09a7-4543-be53-737c91931240.png)
+
+## Performing a vulnerability scan on the target host using NMAP NSE
+
+Command - `nmap -sV --script=vuln <target ip>`
