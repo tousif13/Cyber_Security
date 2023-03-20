@@ -70,3 +70,9 @@ Command - `nmap -sV <ipaddr> -oX filename.xml`
 `-oX` - Outputs scan in XML format.
 
 ![image](https://user-images.githubusercontent.com/33444140/226360344-3d19f3a8-6723-4f43-8cdf-b207fd6271ec.png)
+
+## NMAP command to get OS information about a host
+Command - `nmap -O <target-ip>`
+
+`-O` - to get OS information.
+
