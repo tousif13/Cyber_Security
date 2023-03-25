@@ -6,7 +6,6 @@
 - Sensitive information like passwords can be retrieved using ARP Cache poisoning attack.
 ## Password stealing using ARP Cache Poisoning attacks
 - ### Open Ettercap tool
-<img src="https://user-images.githubusercontent.com/33444140/227277918-24e86e97-7d50-4fdb-abea-1ad11adc7135.png" width=550 height=250>
 
 - ### Scan the hosts
 <img src="https://user-images.githubusercontent.com/33444140/227280184-f1f40ec1-0382-45ee-b2d6-6b58ef7db4ad.png" height=370>
@@ -15,9 +14,14 @@
 <img src="https://user-images.githubusercontent.com/33444140/227280810-1d61df20-81e1-4b99-965e-247089dd9fbb.png" height=370>
 
 - ### Select ARP Poisoning
-![arppos](https://user-images.githubusercontent.com/33444140/227282308-cffefeec-bb7a-432b-a1dd-a5dc7f04eaad.png)
+- Ettercap will poison the arp cache of the
+ two hosts, identifying itself as the other host respectively.
+- Once the arp caches are poisoned, the two hosts start the connection, but
+ their packets will be sent to ettercap (attacker) window, and it will record them and forward them to the victim's connection.
 
 - ### Intercepting a password
+ Typing credentials in a victim's webpage.
+
 ![webpage](https://user-images.githubusercontent.com/33444140/227282575-5bed5de9-e279-47c1-8964-03674055cdb4.png)
 
 We can see the password appeared on attacker's screen as Ettercap successfully poisoned the target and intercepted the HTTP login request for password.
