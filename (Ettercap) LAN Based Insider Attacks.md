@@ -29,3 +29,30 @@ We can see the password appeared on attacker's screen as Ettercap successfully p
 ![passwd](https://user-images.githubusercontent.com/33444140/227282877-4becbe59-7072-4281-9209-2e1a46dcd772.png)
 
 ## Denial of Service (DOS) attacks using ARP Cache Poisoning attacks
+
+## DNS Spoofing attack using ARP Cache Poisoning attacks
+ DNS spoofing is the act of entering false information into a DNS cache, so that DNS queries return an incorrect response and users are directed to the wrong websites.
+ The attacker can poison ARP tables and force targeted user devices into using the attacker-controlled machine as the server for a specific website.
+ 
+ First we need to configure some information to perform the DNS spoofing.
+ - Open the `/etc/ettercap/etter.conf` file.
+ - We have to change the uid, gid values to 0 and remove the # from of IPtables section to active the commands.
+ 
+ ![dnsspoof4](https://user-images.githubusercontent.com/33444140/227757608-b039d48f-2cff-4f52-802c-954845322775.png)
+
+![dnsspoof3](https://user-images.githubusercontent.com/33444140/227757632-62afa7cb-be5b-432c-b005-418716c47b9f.png)
+- Then, we open `/etc/ettercap/etter.dns` file and entry the website domain and our (attacker's) IP associated to it.
+
+![dnsspoof5](https://user-images.githubusercontent.com/33444140/227757716-01f01e6f-c9df-430b-b30b-a288ddfb2d66.png)
+
+- Save it and start our apache web server `systemctl start apache2`.
+- Open ettercap and scan the hosts.
+- Select the victim's IP and Gateway address as Targets.
+- Select the `dns_spoof` plugin in the plugin list.
+- Start the MITM attack of ARP poisoning.
+
+![dnsspoof2](https://user-images.githubusercontent.com/33444140/227757848-fb2ec0fb-45ea-47ef-83b1-6088a0c543b0.png)
+
+![dnsspoof1](https://user-images.githubusercontent.com/33444140/227757854-a00b82e1-3492-41d7-92f2-82532c727f88.png)
+
+We can see the localhost page of attacker's machine is spoofed to given dns (`tousif.com`) in the victim's webpage.
