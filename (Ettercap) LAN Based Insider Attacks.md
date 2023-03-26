@@ -40,7 +40,7 @@ Flood attacks occur when the system receives too much traffic for the server to 
 - Select the victim's IP and Gateway address as Targets.
 - Start the MITM attack of ARP poisoning.
 - Select the `dos_attack` plugin from the plugins list.
-- Give victim's IP and fake host IP.
+- Give victim's IP and fake host IP addresses.
 
 ![dos2](https://user-images.githubusercontent.com/33444140/227770389-2ebc7569-e380-4888-b891-4ca882166a77.png)
 
