@@ -99,3 +99,22 @@ SSL stripping can lead to security risks like eavesdropping, altering data, comm
 ![ssl](https://user-images.githubusercontent.com/33444140/227934370-5d456553-8d28-4f17-9d69-396ce037aa2a.png)
 
 ## arp_cop and scan_poisoner plugins to learn about the detection of ARP attacks
+### arp_cop
+
+It reports suspicious ARP activity by passively monitoring ARP requests and replies.
+
+It can report ARP posioning attempts, or simple IP-conflicts or IP-changes.
+
+- Open ettercap and select the `arp_cop` plugin.
+- Open ettercap in another machine and scan the hosts.
+- Add the first machine's IP address as Target.
+
+![5a](https://user-images.githubusercontent.com/33444140/227994382-01e0c5cd-b79e-49ac-8aa0-851c322c6ddc.png)
+
+- Start the ARP poisoning in second machine.
+- We can see in first machine's window that it reports the ARP activity.
+
+![5b](https://user-images.githubusercontent.com/33444140/227994725-642d6747-3bff-42bf-9083-0e58f904e0e8.png)
+![5c](https://user-images.githubusercontent.com/33444140/227994777-7508dfbe-36be-40f9-9fcf-3b3e6be1cca3.png)
+
+### scan_poisoner
