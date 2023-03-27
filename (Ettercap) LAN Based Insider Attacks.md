@@ -118,3 +118,17 @@ It can report ARP posioning attempts, or simple IP-conflicts or IP-changes.
 ![5c](https://user-images.githubusercontent.com/33444140/227994777-7508dfbe-36be-40f9-9fcf-3b3e6be1cca3.png)
 
 ### scan_poisoner
+
+Scan Poisoner scans if someone is poisoning between the user machine and the hosts in the scanned list.
+
+It checks whether if two hosts in the list have same MAC address.
+
+> We have to build hosts list to perform this check. After that, it sends icmp echo packets to each host in the list and checks if the source mac address of the reply differs from the address we have stored in the list for that ip. To check if someone is poisoning that host pretending to have our ip address and forwards intercepted packets to us.
+
+- Open ettercap and select the `scan_poisoner` plugin.
+- Open ettercap in another machine and scan the hosts.
+- Add the first machine's IP address as Target.
+- Start the ARP Poisoning.
+- We can see that one host is replying to other in the lists of hosts that captured by scan_poisoner.
+
+![5d](https://user-images.githubusercontent.com/33444140/227997985-ee25f06e-ca46-4931-ab3c-e0da3259b045.png)
