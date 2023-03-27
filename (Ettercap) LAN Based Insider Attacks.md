@@ -78,3 +78,22 @@ Flood attacks occur when the system receives too much traffic for the server to 
 ![dnsspoof1](https://user-images.githubusercontent.com/33444140/227757854-a00b82e1-3492-41d7-92f2-82532c727f88.png)
 
 We can see the localhost page of attacker's machine is spoofed to given dns (`tousif.com`) in the victim's webpage.
+
+## Invoke sslstrip tool for stripping the HTTPS connection.
+
+SSL (Secure Sockets Layer) is a standard security technology for establishing an encrypted link between a server and a client like a web browser.
+
+SSL stripping attack is a type of cyber attack in which attackers downgrade a web connection to the less secure HTTP, from the more secure HTTPS.
+
+SSL stripping can lead to security risks like eavesdropping, altering data, communications without any knowledge from legitimate users, etc.
+
+- Open ettercap tool and scan the hosts.
+- Select the victim's IP address as Target.
+- Start the MITM attack of ARP poisoning.
+- Select the `sslstrip` plugin from the plugins list.
+
+![ssls](https://user-images.githubusercontent.com/33444140/227933924-1b3148b3-a46d-440c-a2d7-476e035a5917.png)
+
+- We can see the website's SSL is stripped in the victim's machine.
+
+![ssl](https://user-images.githubusercontent.com/33444140/227934370-5d456553-8d28-4f17-9d69-396ce037aa2a.png)
