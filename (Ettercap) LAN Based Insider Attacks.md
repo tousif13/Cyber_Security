@@ -97,3 +97,5 @@ SSL stripping can lead to security risks like eavesdropping, altering data, comm
 - We can see the website's SSL is stripped in the victim's machine.
 
 ![ssl](https://user-images.githubusercontent.com/33444140/227934370-5d456553-8d28-4f17-9d69-396ce037aa2a.png)
+
+## arp_cop and scan_poisoner plugins to learn about the detection of ARP attacks
