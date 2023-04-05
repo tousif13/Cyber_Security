@@ -14,3 +14,7 @@ Types of Wi-Fi
 * `802.11ac` - Transmits at 5GHz frequency. It allows for transmission on multiple spatial streams upto eight. It is far faster than its predecessors as it is called as 5G or Gigabit WiFi.
 * `802.11ax` - Also known as WiFi 6. Allows an even higher data flow rate upto 9.2 Gbps. Accepts multiple devices also connect on a higher 6 GHz band.
 * `802.11be` - Projected to be the standard by 2024, should offer better range, faster data rates and more connections than its previous versions.
+
+Attacks on Wi-Fi 
+
+* `Denial-of-Service (DOS) Attack` - DOS attack is which flooding the Wi-Fi network with more no of requests that overloads the network and prevents the users from accessing it.
