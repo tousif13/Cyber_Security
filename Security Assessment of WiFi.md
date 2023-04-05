@@ -18,3 +18,7 @@ Types of Wi-Fi
 Attacks on Wi-Fi 
 
 * `Denial-of-Service (DOS) Attack` - DOS attack is which flooding the Wi-Fi network with more no of requests that overloads the network and prevents the users from accessing it.
+* `Man-in-the-Middle (MitM) Attack` - MitM attack intercepts the communication between two devices and the attacker steals the information acting as an eavesdropper.
+* `Evil Twin Attack / Rogue Access Point Attack` - This attack involves setting up a fake access point as a legitimate access point. So that user assumes fake access point as a legitimate one and exposes the information to the attacker.
+* `Password Cracking Attack` - This attack involves using various password cracking attacks such as Dictionary attacks or Brute Force attacks to guess the Wi-Fi password to attack further after getting access to it.
+
