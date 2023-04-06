@@ -23,4 +23,7 @@ Attacks on Wi-Fi
 * `Password Cracking Attack` - This attack involves using various password cracking attacks such as Dictionary attacks or Brute Force attacks to guess the Wi-Fi password to attack further after getting access to it.
 
 ### InSSIDer
+- inSSIDer is a wireless network scanner that can be used to analyze and troubleshoot Wi-Fi networks. 
+- It gives information about wireless networks such as signal strength, encryption, channels, and other network parameters. 
+
 ![image](https://user-images.githubusercontent.com/33444140/230281037-4dc5aa6f-2074-470b-910b-1d0af166ade4.png)
