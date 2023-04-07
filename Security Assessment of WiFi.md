@@ -22,8 +22,44 @@ Attacks on Wi-Fi
 * `Evil Twin Attack / Rogue Access Point Attack` - This attack involves setting up a fake access point as a legitimate access point. So that user assumes fake access point as a legitimate one and exposes the information to the attacker.
 * `Password Cracking Attack` - This attack involves using various password cracking attacks such as Dictionary attacks or Brute Force attacks to guess the Wi-Fi password to attack further after getting access to it.
 
+### Setting up and Configuring Wi-Fi adapter to monitor mode
+ 
+ <img src="https://user-images.githubusercontent.com/33444140/230572198-2ee1c79b-158e-4954-b213-1fd0b08f67b3.png" height=650>
+ 
+## Performing Fingerprinting using Wigle, InSSIDer, Kismet
+
 ### InSSIDer
 - inSSIDer is a wireless network scanner that can be used to analyze and troubleshoot Wi-Fi networks. 
 - It gives information about wireless networks such as signal strength, encryption, channels, and other network parameters. 
 
 ![image](https://user-images.githubusercontent.com/33444140/230281037-4dc5aa6f-2074-470b-910b-1d0af166ade4.png)
+
+### Wigle
+- WiGLE is a website and mobile app that allows users to find infromation and maps wireless networks. 
+- It provides information about the location, SSID, and signal strength of nearby Wi-Fi networks. 
+
+Information of Wi-Fi networks
+
+<img src="https://user-images.githubusercontent.com/33444140/230574664-1f26a864-86bf-4416-a36c-b45dfca007ec.jpeg" height=500>
+
+Geographical location of a particular Wi-Fi network
+
+<img src="https://user-images.githubusercontent.com/33444140/230574992-d1ec80b8-a2a4-49f1-a90e-531953005188.jpeg" height=500>
+
+### Kismet
+- Kismet is an open-source wireless network detector, sniffer, and intrusion detection system. 
+- It works with any 802.11 wireless network and can be used for packet sniffing, network traffic analysis, and wireless network monitoring. 
+- It can capture and analyze wireless network traffic, including the contents of data packets.
+
+SSID's of nearby access points.
+
+<img src="https://user-images.githubusercontent.com/33444140/230577114-e6acd519-d7f7-4a68-bebb-afcc64ac6c83.png" height=500>
+
+BSSID
+
+<img src="https://user-images.githubusercontent.com/33444140/230577870-4d988d06-804a-49a4-bbe0-f0b83c8aa5bd.png" height=500>
+
+Devices per channel
+
+<img src="https://user-images.githubusercontent.com/33444140/230578639-618d3901-e77d-4fd1-b094-968d20a7c089.png">
+
