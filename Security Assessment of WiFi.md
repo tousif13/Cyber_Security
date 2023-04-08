@@ -22,7 +22,7 @@ Attacks on Wi-Fi
 * `Evil Twin Attack / Rogue Access Point Attack` - This attack involves setting up a fake access point as a legitimate access point. So that user assumes fake access point as a legitimate one and exposes the information to the attacker.
 * `Password Cracking Attack` - This attack involves using various password cracking attacks such as Dictionary attacks or Brute Force attacks to guess the Wi-Fi password to attack further after getting access to it.
 
-### Setting up and Configuring Wi-Fi adapter to monitor mode
+## Setting up and Configuring Wi-Fi adapter to monitor mode
  
  <img src="https://user-images.githubusercontent.com/33444140/230572198-2ee1c79b-158e-4954-b213-1fd0b08f67b3.png" height=650>
  
@@ -63,7 +63,7 @@ Devices per channel
 
 <img src="https://user-images.githubusercontent.com/33444140/230578639-618d3901-e77d-4fd1-b094-968d20a7c089.png">
 
-### Creating an access point with a Wi-Fi encryption standard
+## Creating an access point with a Wi-Fi encryption standard
 
 Creating our own access point using hostapd service.
 
@@ -117,4 +117,11 @@ aireplay-ng deauth
 
 ![pswdfile](https://user-images.githubusercontent.com/33444140/230734389-ec9bb31c-b53c-4feb-b6ea-e3dd899f3558.png)
 
-### Protocol level working of WPA3 and how it differs from WPA2
+## Protocol level working of WPA3 and how it differs from WPA2
+WPA3 is the latest standard for securing Wi-Fi networks, which was introduced in 2018. It offers several improvements over WPA2, including stronger encryption, enhanced protection against password cracking, and improved security for public Wi-Fi networks.
+
+At the protocol level, WPA3 uses a new key exchange protocol called "Simultaneous Authentication of Equals" (SAE) or Dragonfly, which is more resistant to offline dictionary attacks. Unlike WPA2, which uses the Pre-Shared Key (PSK) method to authenticate users and devices, WPA3 uses a stronger method called "Opportunistic Wireless Encryption" (OWE). This method provides encryption to networks that don't have a password or where the password is shared among many users, such as public Wi-Fi networks.
+
+Another key feature of WPA3 is Protected Management Frames (PMF), which provides protection against denial-of-service attacks and other wireless network attacks. PMF ensures that management frames are encrypted and authenticated, preventing attackers from spoofing these frames to take control of the network.
+
+WPA3 also introduces new encryption algorithms, including 256-bit Galois/Counter Mode Protocol (GCMP-256) and 384-bit Hashed Message Authentication Code (HMAC) with Secure Hash Algorithm 384 (SHA-384) for data integrity protection. These encryption algorithms are more secure and efficient than the ones used in WPA2.
