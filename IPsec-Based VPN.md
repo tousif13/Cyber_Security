@@ -22,6 +22,9 @@
 
 > Purple Kali linux IP - 192.168.59.138
 
+![gateways](https://user-images.githubusercontent.com/33444140/232841060-0a0a21fc-77e8-4c91-9be6-40e922a2c497.jpeg)
+
+
 * config setup – specifies general configuration information for IPSec which applies to all connections.
 * charondebug – defines how much Charon debugging output should be logged.
 * uniqueids – specifies whether a particular participant ID should be kept unique.
@@ -47,3 +50,10 @@
 `sudo vi /etc/ipsec.secrets`
 
 ![secrets](https://user-images.githubusercontent.com/33444140/232827004-eccd8b82-3c39-43e1-b6de-2ad5284269a6.png)
+
+### Establishing connection between two gateways
+
+`sudo ipsec restart`
+
+`sudo ipsec up <config-name>`
+
