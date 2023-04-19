@@ -57,3 +57,7 @@
 
 `sudo ipsec up <config-name>`
 
+![kaliop](https://user-images.githubusercontent.com/33444140/232954875-6687cccf-1577-4f31-b43e-0c6dc46077db.png)
+
+![purpleop](https://user-images.githubusercontent.com/33444140/232954939-b41f893e-bda4-4f0c-bee0-47eeab6c1113.png)
+
