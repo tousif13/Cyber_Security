@@ -36,3 +36,11 @@ Now as we performed the scan we can see the nmap logs by using `scan` in search
 
 * Perform any communication using unencrypted traffic.
 
+* Visiting an unencrypted site
+
+![image](https://github.com/tousif13/Cyber_Security/assets/33444140/ff7f3eb0-6aff-42d2-8749-db915cd7977c)
+
+* Now we add monitor of log files to splunk
+
+![image](https://github.com/tousif13/Cyber_Security/assets/33444140/d810b314-3849-4d01-9e2a-165e388d179b)
+
