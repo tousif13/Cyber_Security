@@ -32,3 +32,7 @@ Now as we performed the scan we can see the nmap logs by using `scan` in search
 
 ![image](https://github.com/tousif13/Cyber_Security/assets/33444140/720f1e01-0c26-4b4f-b665-d3eac50a6864)
 
+## Run Splunk >> Forwarder can be in the same system or another system (user’s convenience) Make sure the logs are indexing in the Splunk enterprise
+
+* Perform any communication using unencrypted traffic.
+
