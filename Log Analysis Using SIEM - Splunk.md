@@ -45,4 +45,8 @@ Now as we performed the scan we can see the nmap logs by using `scan` in search
 ![image](https://github.com/tousif13/Cyber_Security/assets/33444140/d810b314-3849-4d01-9e2a-165e388d179b)
 
 * We can see the http logs here.
+
 ![image](https://github.com/tousif13/Cyber_Security/assets/33444140/4d496889-66a8-48a0-a93c-3d1b87ac4c4f)
+
+* We can see the get requests here.
+
