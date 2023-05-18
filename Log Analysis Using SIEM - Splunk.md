@@ -38,7 +38,7 @@ Now as we performed the scan we can see the nmap logs by using `scan` in search
 
 * Visiting an unencrypted site
 
-![image](https://github.com/tousif13/Cyber_Security/assets/33444140/ff7f3eb0-6aff-42d2-8749-db915cd7977c)
+![dnsspoof1](https://github.com/tousif13/Cyber_Security/assets/33444140/e08b51df-0dd9-4c31-b90e-ee7e53b7ccab)
 
 * Now we add monitor of log files to splunk
 
@@ -50,3 +50,14 @@ Now as we performed the scan we can see the nmap logs by using `scan` in search
 
 * We can see the get requests here.
 
+![image](https://github.com/tousif13/Cyber_Security/assets/33444140/2b62acf4-4b6f-409f-99b7-cfbfdea34116)
+
+## Run Splunk >> Forwarder can be in the same system or another system (user’s convenience)  >>Make sure the logs are indexing in the Splunk enterprise.
+
+*  Logout of the target system and perform multiple failed attempts. Then use the search  section to filter out the failed attempt logs
+
+![image](https://github.com/tousif13/Cyber_Security/assets/33444140/362e081e-3912-491d-92cc-6f96326070e1)
+
+* Now if we search `authentication failure` in search box. it will show the logs.
+
+![image](https://github.com/tousif13/Cyber_Security/assets/33444140/bc05dd4e-5dae-429a-82aa-2ba94b06cfa1)
