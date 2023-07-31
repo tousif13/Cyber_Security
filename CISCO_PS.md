@@ -6,7 +6,7 @@ Below is the network topology that consists of 3 blocks and systems in it interc
 
 We will go through block by block and analyze the components involved, security risks and their mitigations.
 
-## Block A
+## Block - A
 
 ![image](https://github.com/tousif13/Cyber_Security/assets/33444140/72aeb650-5617-44bd-becb-15894008208d)
 
@@ -85,3 +85,42 @@ We can achieve this by using VLANs and access control lists.
       Router(config-if)# ip access-group 100 in
 
 * Save the configuration and we mitigated the security risk of unauthorized accessing of systems of one department to the system of other department.
+
+## Block - B
+
+![image](https://github.com/tousif13/Cyber_Security/assets/33444140/38ce87d5-a2de-4952-9776-f02958427bb2)
+
+In this block, there are systems interconnected and there's a Email server in it.
+
+Possible security risks are :
+
+### Security Risk : Brute Force Attack
+
+Weak passwords on the systems, email server, or router could be susceptible to brute force attacks, where attackers try numerous password combinations to gain access. Attackers might also use social engineering techniques to trick employees into revealing sensitive information or granting access to their systems or the network.
+
+#### Proposed Solution
+
+* `Strong Password Policy` - Passwords to be of sufficient length and complexity, including a mix of uppercase and lowercase letters, numbers, and special characters.
+* `Account Lockout Policy` - Implementing an account lockout policy that temporarily locks out user accounts after a certain number of failed login attempts.
+* `Two-Factor Authentication (2FA)` - This adds an extra layer of security by requiring a second form of authentication, such as a one-time code sent to the user's mobile device
+* `Rate Limiting` - Rate limiting restricts the number of login attempts from a single IP address or user within a specific time period, preventing brute force attacks.
+* `IP Whitelisting/Blacklisting` - Maintaining a list of trusted IP addresses (whitelisting) that are allowed to access critical systems. Block or limit access from suspicious or unauthorized IP addresses (blacklisting).
+* `Implementing CAPTCHA` - Implementing CAPTCHA on login pages to prevent automated scripts from repeatedly attempting login.
+
+### Security Risk : Email Phishing
+
+Employees could fall victim to phishing emails or websites, leading to stolen credentials or malware infection.
+
+#### Proposed Solution
+
+* `Email Security Gateway` - Implementing an email security gateway solution that includes spam filters, antivirus scanning, and anti-phishing measures
+* `Domain-based Message Authentication, Reporting, and Conformance (DMARC)` - DMARC validates the authenticity of email senders and can instruct email servers on how to handle suspicious emails
+* `Sender Policy Framework (SPF) and DomainKeys Identified Mail (DKIM)` - Configuring SPF and DKIM on the email server to verify the legitimacy of incoming emails and prevent domain spoofing.
+* `Attachment Scanning` - Utilize attachment scanning solutions to check email attachments for malware and malicious content before they reach users.
+
+### Security Risk : Denial of Service (DoS) Attacks
+
+Attackers might attempt to overwhelm the email server, router, or other systems with a flood of traffic, causing a denial of service for legitimate users.
+
+#### Proposed Solution
+
