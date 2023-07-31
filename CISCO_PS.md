@@ -116,11 +116,22 @@ Employees could fall victim to phishing emails or websites, leading to stolen cr
 * `Email Security Gateway` - Implementing an email security gateway solution that includes spam filters, antivirus scanning, and anti-phishing measures
 * `Domain-based Message Authentication, Reporting, and Conformance (DMARC)` - DMARC validates the authenticity of email senders and can instruct email servers on how to handle suspicious emails
 * `Sender Policy Framework (SPF) and DomainKeys Identified Mail (DKIM)` - Configuring SPF and DKIM on the email server to verify the legitimacy of incoming emails and prevent domain spoofing.
-* `Attachment Scanning` - Utilize attachment scanning solutions to check email attachments for malware and malicious content before they reach users.
+* `Attachment Scanning` - Utilizing attachment scanning solutions to check email attachments for malware and malicious content before they reach users.
 
 ### Security Risk : Denial of Service (DoS) Attacks
 
 Attackers might attempt to overwhelm the email server, router, or other systems with a flood of traffic, causing a denial of service for legitimate users.
 
 #### Proposed Solution
+
+* `Bandwidth Management` - Implementing Quality of Service (QoS) policies on the router to prioritize critical traffic over non-essential traffic. This helps prevent the network from becoming overwhelmed during a DoS attack
+* `Ingress and Egress Filtering` - Configuring the router to perform ingress and egress filtering to block packets with spoofed source IP addresses. This helps prevent attackers from using IP address spoofing in their attacks.
+* `Rate Limiting` - Enabling rate limiting on the router and switches to limit the number of packets allowed per second from individual IP addresses or network segments. This can help mitigate the impact of low-scale DoS attacks.
+* `Load Balancers` - Deploying load balancers in front of critical services, including the email server, to distribute incoming traffic evenly across multiple servers. This helps distribute the load during a DoS attack.
+
+## Block - C
+
+![image](https://github.com/tousif13/Cyber_Security/assets/33444140/c4b8473c-3c0f-40d0-907e-dff3a8d1e190)
+
+Block C consists of two departments (Faculty & Research Scholars) and interconected to a router.
 
