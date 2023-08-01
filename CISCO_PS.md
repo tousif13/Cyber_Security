@@ -12,6 +12,8 @@ We will go through block by block and analyze the components involved, security 
 
 Block A consists of three departments (Admissions, HR and Accounts) which the network is segmented into 3 parts where one system of respective department should be inaccessible to the system in other departments.
 
+It consists if components like PCs, Router, A Web Server and DHCP servers configured for every department systems.
+
 ### Security Risk : Unauthorized Access
 
 There is a security risk here where a system from one department can access the system in other departments. This leads to the exposure of information where if a person from HR department is accessing Accounts.
@@ -26,7 +28,7 @@ We can achieve this by using VLANs and access control lists.
 
 > Access Control Lists (ACLs) are a fundamental security feature used in computer networks to control and manage the flow of traffic between devices. ACLs are employed primarily in routers and firewalls to permit or deny specific types of traffic based on defined rules and conditions. These rules act as filters, determining what traffic can pass through the network and what traffic should be blocked.
 
-#### Steps :
+#### Steps (In Packet Tracer):
 
 * Create VLANs
 
@@ -85,6 +87,19 @@ We can achieve this by using VLANs and access control lists.
       Router(config-if)# ip access-group 100 in
 
 * Save the configuration and we mitigated the security risk of unauthorized accessing of systems of one department to the system of other department.
+
+### Security Risk : Web Server Security Risks
+
+Department systems can access the web as the web server is functioning.
+
+There are certain security risks possible :
+
+* `Insecure Configuration` - Incorrectly configured web servers can expose sensitive information or grant unauthorized access to files or directories
+* `DDoS Attacks` - Web servers can be targeted with Distributed Denial of Service (DDoS) attacks, where multiple compromised devices flood the server with traffic, overwhelming its resources and making it inaccessible to legitimate users.
+* `SQL Injection` - If the web server interacts with a database and is not properly secured, attackers can manipulate the database through maliciously crafted SQL queries.
+* `Cross-Site Scripting (XSS)` - XSS attacks occur when malicious scripts are injected into web pages, allowing attackers to steal sensitive information or hijack user sessions.
+* `Server Misconfiguration` - Misconfigurations in the server software or operating system settings can expose unnecessary services or open unnecessary ports, providing potential entry points for attackers.
+* `Insecure File Uploads` - If the web server allows users to upload files without proper validation, attackers can upload malicious files that can lead to code execution or data leakage.
 
 ## Block - B
 
