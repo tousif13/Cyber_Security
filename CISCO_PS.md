@@ -101,6 +101,14 @@ There are certain security risks possible :
 * `Server Misconfiguration` - Misconfigurations in the server software or operating system settings can expose unnecessary services or open unnecessary ports, providing potential entry points for attackers.
 * `Insecure File Uploads` - If the web server allows users to upload files without proper validation, attackers can upload malicious files that can lead to code execution or data leakage.
 
+#### Proposed Solutions
+
+* `Secure Configuration` - Review and adjusting the server configuration to minimize exposure of sensitive information, disable unnecessary services and ports, and implement secure protocols like HTTPS.
+* `Strong Authentication` - Enforcing strong password policies and implementing multi-factor authentication (MFA) for added security.
+* `Web Application Firewall (WAF)` - Deploying a WAF to protect web applications from common attacks, such as SQL injection, XSS, and CSRF.
+* `File Upload Validation` - Validating and restrict file uploads to prevent malicious files from being uploaded to the server.
+* `Data Encryption` - Using encryption protocols (SSL/TLS) to protect data transmitted between the web server and clients.
+
 ## Block - B
 
 ![image](https://github.com/tousif13/Cyber_Security/assets/33444140/38ce87d5-a2de-4952-9776-f02958427bb2)
