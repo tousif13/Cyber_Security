@@ -1,6 +1,6 @@
 # Security Assessment
 
-Below is the network topology that consists of 3 blocks and systems in it interconnected.
+Below is the network topology that consists of 3 blocks and systems in it interconnected which consists of a web server in Block-A and an email server in Block-B and the routers of all three blocks are connected through serial ports.
 
 ![image](https://github.com/tousif13/Cyber_Security/assets/33444140/df612fea-9953-46c4-8c9a-744deb7a4451)
 
@@ -163,3 +163,11 @@ Weak passwords on the systems, email server, or router could be susceptible to b
 * `Rate Limiting` - Rate limiting restricts the number of login attempts from a single IP address or user within a specific time period, preventing brute force attacks.
 * `IP Whitelisting/Blacklisting` - Maintaining a list of trusted IP addresses (whitelisting) that are allowed to access critical systems. Block or limit access from suspicious or unauthorized IP addresses (blacklisting).
 * `Implementing CAPTCHA` - Implementing CAPTCHA on login pages to prevent automated scripts from repeatedly attempting login.
+
+### Security Risk : Unauthorized Access
+
+Systems in Block - C are categorized into two seperate departments same as like in Block - A.
+
+Thus, unauthorized access takes place here too which the proposed solution is already discussed at Block-A mitigations.
+
+Thus, college campus network topology is created and discussed about the security risks and their proposed solutions with mitigations.
