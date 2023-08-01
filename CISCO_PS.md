@@ -117,22 +117,11 @@ In this block, there are systems interconnected and there's a Email server in it
 
 Possible security risks are :
 
-### Security Risk : Brute Force Attack
-
-Weak passwords on the systems, email server, or router could be susceptible to brute force attacks, where attackers try numerous password combinations to gain access. Attackers might also use social engineering techniques to trick employees into revealing sensitive information or granting access to their systems or the network.
-
-#### Proposed Solution
-
-* `Strong Password Policy` - Passwords to be of sufficient length and complexity, including a mix of uppercase and lowercase letters, numbers, and special characters.
-* `Account Lockout Policy` - Implementing an account lockout policy that temporarily locks out user accounts after a certain number of failed login attempts.
-* `Two-Factor Authentication (2FA)` - This adds an extra layer of security by requiring a second form of authentication, such as a one-time code sent to the user's mobile device
-* `Rate Limiting` - Rate limiting restricts the number of login attempts from a single IP address or user within a specific time period, preventing brute force attacks.
-* `IP Whitelisting/Blacklisting` - Maintaining a list of trusted IP addresses (whitelisting) that are allowed to access critical systems. Block or limit access from suspicious or unauthorized IP addresses (blacklisting).
-* `Implementing CAPTCHA` - Implementing CAPTCHA on login pages to prevent automated scripts from repeatedly attempting login.
-
 ### Security Risk : Email Phishing
 
 Employees could fall victim to phishing emails or websites, leading to stolen credentials or malware infection.
+
+Several factors contribute to the prevalence of email phishing like Social Engineering, Ease of Execution, Anonymity, Compromised credentials and Impersonation of trusted entities etc.
 
 #### Proposed Solution
 
@@ -144,6 +133,8 @@ Employees could fall victim to phishing emails or websites, leading to stolen cr
 ### Security Risk : Denial of Service (DoS) Attacks
 
 Attackers might attempt to overwhelm the email server, router, or other systems with a flood of traffic, causing a denial of service for legitimate users.
+
+Denial of Service (DoS) is a cyber attack where an attacker overwhelms a target's resources, making its services or website inaccessible to legitimate users. It aims to disrupt availability and functionality.
 
 #### Proposed Solution
 
@@ -158,3 +149,17 @@ Attackers might attempt to overwhelm the email server, router, or other systems 
 
 Block C consists of two departments (Faculty & Research Scholars) and interconected to a router.
 
+Possible security risks are
+
+### Security Risk : Brute Force Attack
+
+Weak passwords on the systems, email server, or router could be susceptible to brute force attacks, where attackers try numerous password combinations to gain access. Attackers might also use social engineering techniques to trick employees into revealing sensitive information or granting access to their systems or the network.
+
+#### Proposed Solution
+
+* `Strong Password Policy` - Passwords to be of sufficient length and complexity, including a mix of uppercase and lowercase letters, numbers, and special characters.
+* `Account Lockout Policy` - Implementing an account lockout policy that temporarily locks out user accounts after a certain number of failed login attempts.
+* `Two-Factor Authentication (2FA)` - This adds an extra layer of security by requiring a second form of authentication, such as a one-time code sent to the user's mobile device
+* `Rate Limiting` - Rate limiting restricts the number of login attempts from a single IP address or user within a specific time period, preventing brute force attacks.
+* `IP Whitelisting/Blacklisting` - Maintaining a list of trusted IP addresses (whitelisting) that are allowed to access critical systems. Block or limit access from suspicious or unauthorized IP addresses (blacklisting).
+* `Implementing CAPTCHA` - Implementing CAPTCHA on login pages to prevent automated scripts from repeatedly attempting login.
