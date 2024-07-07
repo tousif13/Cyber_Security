@@ -5,7 +5,7 @@
 
 
 
-# Lab 1
+# Lab 1 Introduction
 ![image](https://github.com/tousif13/Cyber_Security/assets/33444140/f2a7aa3e-28ed-485d-a667-82c5a568f734)
 
 ![image](https://github.com/tousif13/Cyber_Security/assets/33444140/4bcf38b8-b1a5-4765-b437-5279565c514c)
@@ -30,7 +30,7 @@
 
 ![image](https://github.com/tousif13/Cyber_Security/assets/33444140/915dc90d-442e-4cf6-aa2a-796bbcf0ea1e)
 
-# Lab 2
+# Lab 2 Basic Setup
 
 ![image](https://github.com/tousif13/Cyber_Security/assets/33444140/816a729d-7bd1-44ab-8f2d-dc00e535e8d1)
 
@@ -86,5 +86,12 @@
 
 ![image](https://github.com/tousif13/Cyber_Security/assets/33444140/a52f2c19-e857-4853-a6a2-dd4de5bea1ca)
 
-# Lab 3:
+# Lab 3: Web Vuln Scanner
 
+![image](https://github.com/tousif13/Cyber_Security/assets/33444140/9501c264-15d4-458d-b319-3f4a7d100def)
+
+![image](https://github.com/tousif13/Cyber_Security/assets/33444140/2c9396c6-9cf9-4b72-a9ff-71762ffb18b0)
+
+![image](https://github.com/tousif13/Cyber_Security/assets/33444140/7b4f46d9-26ca-43e7-8d53-dc6c30a7474f)
+
+![image](https://github.com/tousif13/Cyber_Security/assets/33444140/3604b247-298c-4dfd-9e9c-ee643523e1c3)
