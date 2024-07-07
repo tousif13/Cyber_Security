@@ -1,7 +1,7 @@
-Vulnerability scans (premade templates)
-OWASP Top 10
-Known attacks prevention
-Machine Learning
+* Vulnerability scans (premade templates)
+* OWASP Top 10
+* Known attacks prevention
+* Machine Learning
 
 
 
