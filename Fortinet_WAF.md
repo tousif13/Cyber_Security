@@ -1,3 +1,10 @@
+Vulnerability scans (premade templates)
+OWASP Top 10
+Known attacks prevention
+Machine Learning
+
+
+
 # Lab 1
 ![image](https://github.com/tousif13/Cyber_Security/assets/33444140/f2a7aa3e-28ed-485d-a667-82c5a568f734)
 
@@ -55,8 +62,6 @@
 
 ![image](https://github.com/tousif13/Cyber_Security/assets/33444140/59c189f5-da03-40d9-ad89-fee11105a291)
 
-## Ex 2:
-
 ![image](https://github.com/tousif13/Cyber_Security/assets/33444140/e49af04f-ef0a-421a-a957-bb6a7ca9b98b)
 
 ![image](https://github.com/tousif13/Cyber_Security/assets/33444140/72c276ac-b094-4ebb-94a7-9c5cc150430f)
@@ -80,3 +85,6 @@
 ![image](https://github.com/tousif13/Cyber_Security/assets/33444140/46c6d724-8f67-4e17-8192-21d1abc819e4)
 
 ![image](https://github.com/tousif13/Cyber_Security/assets/33444140/a52f2c19-e857-4853-a6a2-dd4de5bea1ca)
+
+# Lab 3:
+
