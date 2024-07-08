@@ -110,3 +110,35 @@
 ![image](https://github.com/tousif13/Cyber_Security/assets/33444140/01a1321a-6b02-4a9c-a078-b8b30586f93d)
 
 ![image](https://github.com/tousif13/Cyber_Security/assets/33444140/c47eb0e5-c3ec-49ee-a928-10025fc72102)
+
+# Lab 4: Authentication and access control
+
+![image](https://github.com/tousif13/Cyber_Security/assets/33444140/8e053584-61aa-4b12-872c-36df91bc3c45)
+
+![image](https://github.com/tousif13/Cyber_Security/assets/33444140/7c4dc18f-6058-44ad-8619-b7504ad03edf)
+
+![image](https://github.com/tousif13/Cyber_Security/assets/33444140/30120169-8632-491a-9cd8-bef0c1ccee26)
+
+![image](https://github.com/tousif13/Cyber_Security/assets/33444140/b529149a-944a-408f-aa22-9c340eda3f9f)
+
+![image](https://github.com/tousif13/Cyber_Security/assets/33444140/3ba0e81c-a390-4a32-8990-52b11fa8743e)
+
+![image](https://github.com/tousif13/Cyber_Security/assets/33444140/9daacfc3-71af-4d22-b414-568754520876)
+
+![image](https://github.com/tousif13/Cyber_Security/assets/33444140/ec6f6db6-d856-4393-adc3-d4a367af07dd)
+
+![image](https://github.com/tousif13/Cyber_Security/assets/33444140/725a914b-ab12-4967-8e62-1bd6849f1f35)
+
+![image](https://github.com/tousif13/Cyber_Security/assets/33444140/96aeb886-bcbc-4a6a-961a-3ab17c0fadf6)
+
+![image](https://github.com/tousif13/Cyber_Security/assets/33444140/83790115-3e86-4e19-a0d1-a6be3f0abaf3)
+
+![image](https://github.com/tousif13/Cyber_Security/assets/33444140/69411433-5815-48c1-9310-df7d5d11d265)
+
+![image](https://github.com/tousif13/Cyber_Security/assets/33444140/d85d4652-4429-4c8e-850b-93a26f9f9e69)
+
+![image](https://github.com/tousif13/Cyber_Security/assets/33444140/2302304a-d1ec-4a64-bf77-0fa817a783a1)
+
+![image](https://github.com/tousif13/Cyber_Security/assets/33444140/0f640ee6-61a9-4eb0-8210-dda99cf44209)
+
+![image](https://github.com/tousif13/Cyber_Security/assets/33444140/c4752d45-675a-488a-be33-f4402b692058)
