@@ -2,7 +2,7 @@
 * OWASP Top 10
 * Known attacks prevention
 * Machine Learning
-
+* IP Reputation (Blocks malicious IPs)
 
 
 # Lab 1 Introduction
