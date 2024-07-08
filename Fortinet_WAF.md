@@ -5,6 +5,7 @@
 * Machine Learning
 * URL Rewrites
 * IP Reputation (Blocks malicious IPs) , GeoIP Block
+* Access limit ( DDOS )
 
 
 # Lab 1 Introduction
