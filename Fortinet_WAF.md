@@ -2,6 +2,7 @@
 * OWASP Top 10
 * Known attacks prevention
 * Machine Learning
+* URL Rewrites
 * IP Reputation (Blocks malicious IPs) , GeoIP Block
 
 
