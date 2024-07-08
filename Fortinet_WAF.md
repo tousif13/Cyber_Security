@@ -1,4 +1,5 @@
 * Vulnerability scans (premade templates)
+* TCP Reset Signals & HTTP error codes for attack protections
 * OWASP Top 10
 * Known attacks prevention
 * Machine Learning
