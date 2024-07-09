@@ -245,4 +245,24 @@
 
 ![image](https://github.com/tousif13/Cyber_Security/assets/33444140/22dcc2c5-4a24-4f8e-954a-e6b03b312e53)
 
-# Lab 8:
+# Lab 8: Application Delivery
+
+![image](https://github.com/tousif13/Cyber_Security/assets/33444140/225d2665-c8db-4eb4-9f82-a719a069b826)
+
+![image](https://github.com/tousif13/Cyber_Security/assets/33444140/0a7a0548-7690-4aeb-ac98-de191eb4e862)
+
+![image](https://github.com/tousif13/Cyber_Security/assets/33444140/60db5f77-4f63-4736-92fa-003725ddebca)
+
+![image](https://github.com/tousif13/Cyber_Security/assets/33444140/f58f7033-06a1-422b-acea-5768151ce911)
+
+![image](https://github.com/tousif13/Cyber_Security/assets/33444140/728847ee-2d05-4bd6-82ab-2b533f2522d1)
+
+![image](https://github.com/tousif13/Cyber_Security/assets/33444140/a9528808-5754-4157-9f4c-bad6defe0558)
+
+![image](https://github.com/tousif13/Cyber_Security/assets/33444140/1d64498d-b717-4394-9925-05e4371446d7)
+
+![image](https://github.com/tousif13/Cyber_Security/assets/33444140/321749f0-ab75-4212-b7a4-d32cde119d9f)
+
+![image](https://github.com/tousif13/Cyber_Security/assets/33444140/8f47bd68-d1d3-491f-ba45-49060dc72f8b)
+
+# Lab 9: API Protection
