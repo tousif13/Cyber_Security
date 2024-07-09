@@ -1,4 +1,4 @@
-![image](https://github.com/tousif13/Cyber_Security/assets/33444140/e554d007-8b6a-422e-9df5-7bbb01d4c5d6)* Vulnerability scans (premade templates)
+* Vulnerability scans (premade templates)
 * TCP Reset Signals & HTTP error codes for attack protections
 * OWASP Top 10
 * Known attacks prevention
@@ -236,6 +236,8 @@
 ![image](https://github.com/tousif13/Cyber_Security/assets/33444140/51ed94eb-1949-455d-a297-eeb449cf7ebd)
 
 ![image](https://github.com/tousif13/Cyber_Security/assets/33444140/d437bb4b-3ddb-4a1d-8699-0f571982b6d2)
+
+![image](https://github.com/tousif13/Cyber_Security/assets/33444140/e554d007-8b6a-422e-9df5-7bbb01d4c5d6)
 
 ![image](https://github.com/tousif13/Cyber_Security/assets/33444140/c3a5f2e9-b597-4560-83ee-85445f8b5a52)
 
