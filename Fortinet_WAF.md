@@ -1,4 +1,4 @@
-* Vulnerability scans (premade templates)
+![image](https://github.com/tousif13/Cyber_Security/assets/33444140/e554d007-8b6a-422e-9df5-7bbb01d4c5d6)* Vulnerability scans (premade templates)
 * TCP Reset Signals & HTTP error codes for attack protections
 * OWASP Top 10
 * Known attacks prevention
@@ -207,3 +207,42 @@
 
 ![image](https://github.com/tousif13/Cyber_Security/assets/33444140/0dfc00ae-92d4-4c5b-bd7b-dc981cd80043)
 
+# Lab 7: SSL/TLS
+
+![image](https://github.com/tousif13/Cyber_Security/assets/33444140/e2fe5e7d-a216-4949-a8ea-e3da102d5a28)
+
+![image](https://github.com/tousif13/Cyber_Security/assets/33444140/45eef49e-ee54-4d14-a0eb-087afbd110d5)
+
+![image](https://github.com/tousif13/Cyber_Security/assets/33444140/02d8766d-4822-4995-96e0-58d5ecde8ddf)
+
+![image](https://github.com/tousif13/Cyber_Security/assets/33444140/722619f6-b6a2-4a9c-a897-aa782da2fab2)
+
+![image](https://github.com/tousif13/Cyber_Security/assets/33444140/6f12ce35-5d0c-49a6-bec2-5745df441cd0)
+
+![image](https://github.com/tousif13/Cyber_Security/assets/33444140/9e1c9738-beca-4775-8e19-c441561d2c63)
+
+![image](https://github.com/tousif13/Cyber_Security/assets/33444140/441eebfb-85d2-4c27-a1e7-8110a0f1bce4)
+
+![image](https://github.com/tousif13/Cyber_Security/assets/33444140/a8b8f600-86ef-4813-983d-463fb938bb0b)
+
+![image](https://github.com/tousif13/Cyber_Security/assets/33444140/6ea3df00-b3b7-431f-bdd6-f5f6efa12953)
+
+![image](https://github.com/tousif13/Cyber_Security/assets/33444140/e5321054-81fb-4072-8378-cc3de1b8fdf3)
+
+![image](https://github.com/tousif13/Cyber_Security/assets/33444140/b9b651d9-10f2-4c46-85dc-bd5c80a2d239)
+
+![image](https://github.com/tousif13/Cyber_Security/assets/33444140/3e319305-c8c3-4962-b354-a03ec9c60e4a)
+
+![image](https://github.com/tousif13/Cyber_Security/assets/33444140/51ed94eb-1949-455d-a297-eeb449cf7ebd)
+
+![image](https://github.com/tousif13/Cyber_Security/assets/33444140/d437bb4b-3ddb-4a1d-8699-0f571982b6d2)
+
+![image](https://github.com/tousif13/Cyber_Security/assets/33444140/c3a5f2e9-b597-4560-83ee-85445f8b5a52)
+
+![image](https://github.com/tousif13/Cyber_Security/assets/33444140/9edbd06b-9680-478e-beda-03a18b947248)
+
+![image](https://github.com/tousif13/Cyber_Security/assets/33444140/03375f55-94e7-406a-a386-360ec51e24aa)
+
+![image](https://github.com/tousif13/Cyber_Security/assets/33444140/22dcc2c5-4a24-4f8e-954a-e6b03b312e53)
+
+# Lab 8:
