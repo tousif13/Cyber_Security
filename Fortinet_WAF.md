@@ -237,8 +237,6 @@
 
 ![image](https://github.com/tousif13/Cyber_Security/assets/33444140/d437bb4b-3ddb-4a1d-8699-0f571982b6d2)
 
-![image](https://github.com/tousif13/Cyber_Security/assets/33444140/e554d007-8b6a-422e-9df5-7bbb01d4c5d6)
-
 ![image](https://github.com/tousif13/Cyber_Security/assets/33444140/c3a5f2e9-b597-4560-83ee-85445f8b5a52)
 
 ![image](https://github.com/tousif13/Cyber_Security/assets/33444140/9edbd06b-9680-478e-beda-03a18b947248)
