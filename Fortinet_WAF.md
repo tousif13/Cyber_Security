@@ -6,6 +6,8 @@
 * URL Rewrites
 * IP Reputation (Blocks malicious IPs) , GeoIP Block
 * Access limit ( DDOS )
+* Checks checksums of files for constant intervals (Anti-defacement)
+* Bot Mitigation
 
 
 # Lab 1 Introduction
@@ -166,4 +168,42 @@
 ![image](https://github.com/tousif13/Cyber_Security/assets/33444140/8d7c68a2-f7e7-4e76-a9c2-de4d197ece1c)
 
 ![image](https://github.com/tousif13/Cyber_Security/assets/33444140/3f55522d-8f00-432d-9d31-a75b2b621ba3)
+
+# Lab 6: DoS and Defacement
+
+![image](https://github.com/tousif13/Cyber_Security/assets/33444140/2462a004-92e4-4ce7-a330-e49f6e7979b9)
+
+![image](https://github.com/tousif13/Cyber_Security/assets/33444140/822e7bb5-4cf4-449b-b0af-5d91ea5a0825)
+
+![image](https://github.com/tousif13/Cyber_Security/assets/33444140/e592f36a-a074-4f55-88df-0b9520c92f6a)
+
+![image](https://github.com/tousif13/Cyber_Security/assets/33444140/1ec63c6f-a034-43ee-94ee-62b8874927ed)
+
+![image](https://github.com/tousif13/Cyber_Security/assets/33444140/a780878c-d31b-4659-a3a5-6abf48720547)
+
+![image](https://github.com/tousif13/Cyber_Security/assets/33444140/c979ae59-4fcf-4900-b857-5a22605a8054)
+
+![image](https://github.com/tousif13/Cyber_Security/assets/33444140/3d81d4cf-ba4a-45ef-88ed-6dbb8f76ed1d)
+
+![image](https://github.com/tousif13/Cyber_Security/assets/33444140/16711cad-ed9c-49dc-81f4-66bb53709ba7)
+
+![image](https://github.com/tousif13/Cyber_Security/assets/33444140/04ccc0ac-f8ac-41cf-84aa-6c39bc60c2c7)
+
+![image](https://github.com/tousif13/Cyber_Security/assets/33444140/8de38719-e439-4ad3-8ba7-cebcf844ff88)
+
+![image](https://github.com/tousif13/Cyber_Security/assets/33444140/6b51acc4-cf88-40ae-a642-fa53f6737a5c)
+
+![image](https://github.com/tousif13/Cyber_Security/assets/33444140/9f15c0a7-eee3-40cf-9e49-edf39fd0334d)
+
+![image](https://github.com/tousif13/Cyber_Security/assets/33444140/7c037749-a40e-4437-a3df-6c4fc15a655e)
+
+![image](https://github.com/tousif13/Cyber_Security/assets/33444140/50728955-09e6-4b29-802c-f5dd83bab122)
+
+![image](https://github.com/tousif13/Cyber_Security/assets/33444140/59c267e4-fcd9-4280-b241-d776d16ec3eb)
+
+![image](https://github.com/tousif13/Cyber_Security/assets/33444140/724bb562-89a7-445e-8d6e-1fa3a17cbe64)
+
+![image](https://github.com/tousif13/Cyber_Security/assets/33444140/42613697-d99d-4599-8772-dd902312b8fd)
+
+![image](https://github.com/tousif13/Cyber_Security/assets/33444140/0dfc00ae-92d4-4c5b-bd7b-dc981cd80043)
 
