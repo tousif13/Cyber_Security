@@ -9,6 +9,7 @@
 * Checks checksums of files for constant intervals (Anti-defacement)
 * Bot Mitigation
 * Validates API calls, JSON and XML tags
+* Tracking client behaviour
 
 
 # Lab 1 Introduction
