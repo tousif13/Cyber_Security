@@ -309,3 +309,35 @@
 
 ![image](https://github.com/tousif13/Cyber_Security/assets/33444140/e9266492-8dbf-46fe-a850-f7339bb37bec)
 
+# Lab 10: Machine Learning
+
+![image](https://github.com/tousif13/Cyber_Security/assets/33444140/b013f206-b74e-4ec8-bda3-38b684f8f2da)
+
+![image](https://github.com/tousif13/Cyber_Security/assets/33444140/6882935b-c18d-45c1-acb9-3204a2eafa9f)
+
+![image](https://github.com/tousif13/Cyber_Security/assets/33444140/9fa6465b-5911-45f3-9201-9c8d8968d4a3)
+
+![image](https://github.com/tousif13/Cyber_Security/assets/33444140/f52d9a4a-36df-43b8-b8b1-413d2e6096b0)
+
+![image](https://github.com/tousif13/Cyber_Security/assets/33444140/3fadc926-651d-4d96-85ce-5025c5ef9f14)
+
+![image](https://github.com/tousif13/Cyber_Security/assets/33444140/e899a194-1093-4aef-a84b-bd09db1fb3b8)
+
+![image](https://github.com/tousif13/Cyber_Security/assets/33444140/04dc6b75-9fd5-4b46-9c70-2ac2363b9b2b)
+
+![image](https://github.com/tousif13/Cyber_Security/assets/33444140/57bf1a79-7e64-46cc-ace4-286ef4c9f1ae)
+
+![image](https://github.com/tousif13/Cyber_Security/assets/33444140/ddc35c40-95fd-4a19-865d-c3a00390f28d)
+
+![image](https://github.com/tousif13/Cyber_Security/assets/33444140/a4ecb4e8-9d1c-4a39-b8d5-9d038d0ff182)
+
+![image](https://github.com/tousif13/Cyber_Security/assets/33444140/38e4b679-20b5-4c9c-82f4-bebc5d7ef0db)
+
+![image](https://github.com/tousif13/Cyber_Security/assets/33444140/833c7a47-24ae-4d9c-9115-62dbec1eaae3)
+
+![image](https://github.com/tousif13/Cyber_Security/assets/33444140/d1fa9bfa-cca5-4f25-9ac4-a511a42bc5a9)
+
+![image](https://github.com/tousif13/Cyber_Security/assets/33444140/55e5da7d-162a-4dea-afdb-6239facda932)
+
+![image](https://github.com/tousif13/Cyber_Security/assets/33444140/262b45a5-b71a-4df8-878c-731072e90976)
+
