@@ -341,3 +341,30 @@
 
 ![image](https://github.com/tousif13/Cyber_Security/assets/33444140/262b45a5-b71a-4df8-878c-731072e90976)
 
+# Lab 11: Additional Configuration
+
+![image](https://github.com/tousif13/Cyber_Security/assets/33444140/6d271c0f-4dab-4665-b364-1a94e8cd4e08)
+
+![image](https://github.com/tousif13/Cyber_Security/assets/33444140/b0541d57-3041-465d-9461-488ddc0675ed)
+
+![image](https://github.com/tousif13/Cyber_Security/assets/33444140/bbe26fe0-9df6-46d0-a2fd-2c899c8e1932)
+
+![image](https://github.com/tousif13/Cyber_Security/assets/33444140/677e6590-973b-40b2-af0b-07816fae9636)
+
+![image](https://github.com/tousif13/Cyber_Security/assets/33444140/5f0cf7d1-1327-4850-aa7e-d5d30e9a9238)
+
+![image](https://github.com/tousif13/Cyber_Security/assets/33444140/423047cf-555d-4e77-9410-2d49f82c694e)
+
+![image](https://github.com/tousif13/Cyber_Security/assets/33444140/8707715a-d38f-4556-8967-acaa2f61ce7a)
+
+![image](https://github.com/tousif13/Cyber_Security/assets/33444140/93c39e7a-bc72-4fb2-8fed-49735aa6f9e2)
+
+![image](https://github.com/tousif13/Cyber_Security/assets/33444140/b9fd3a94-754e-4a3f-980a-6d0ed640f8c8)
+
+![image](https://github.com/tousif13/Cyber_Security/assets/33444140/89d5d6ed-6e78-4b73-8408-a9e3a4cbd6b2)
+
+![image](https://github.com/tousif13/Cyber_Security/assets/33444140/dd5fea38-7126-49c7-a50e-886c9201143c)
+
+![image](https://github.com/tousif13/Cyber_Security/assets/33444140/bf83f4c0-9898-474a-b3ce-d15260fe2d41)
+
+# Lab 12:
