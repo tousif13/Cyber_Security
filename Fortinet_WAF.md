@@ -367,4 +367,10 @@
 
 ![image](https://github.com/tousif13/Cyber_Security/assets/33444140/bf83f4c0-9898-474a-b3ce-d15260fe2d41)
 
-# Lab 12:
+# Lab 12: Troubleshooting
+
+![image](https://github.com/tousif13/Cyber_Security/assets/33444140/18ff0a3e-0088-454c-bdf9-5f506eb9ea30)
+
+![image](https://github.com/tousif13/Cyber_Security/assets/33444140/995b1049-0f0d-42c9-a71a-e95427f0a849)
+
+
